@@ -5,7 +5,7 @@
 
 we are going to make a Twitter Clone using React JS in the frontend along with Firebase!
 We will be using Firebase Firestore as a database and we will be using Firebase Hosting to bring our clone live on the internet. We will have the ability to post along with Images. 
-This work will be done as the Coding-Warriors Team...
+This work will be done as the Coding-Warriors Team.
 
 
 ## Project Team
