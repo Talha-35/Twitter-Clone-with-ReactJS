@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app">
       <Sidebar />
-      <h2>deneme</h2>
+      
       {/* <Feed /> */}
       <Widgets />
     </div>
