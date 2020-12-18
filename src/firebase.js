@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-    apiKey: process.env.apiKey,
+    apiKey: "AIzaSyA99iBBZtLk3iWTcnp0RzWrGbkqw0a2F9M",
     authDomain: "twitter-clone-with-react-273d4.firebaseapp.com",
     projectId: "twitter-clone-with-react-273d4",
     storageBucket: "twitter-clone-with-react-273d4.appspot.com",
